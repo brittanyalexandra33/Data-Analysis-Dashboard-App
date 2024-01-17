@@ -18,10 +18,10 @@ To use the Comprehensive Data Analysis Dashboard, follow these steps:
 3. **Generate Summary**: After uploading your data and optionally setting the number of clusters, click the "Generate Summary" button. The dashboard will then analyze your data and provide insights.
 
 
-4. ** Requirements **:  Ensure you have R and the required R packages installed. The project relies on packages such as Shiny, dplyr, tidyr, DT, readxl, factoextra, and FactoMineR.
+4. **Requirements**:  Ensure you have R and the required R packages installed. The project relies on packages such as Shiny, dplyr, tidyr, DT, readxl, factoextra, and FactoMineR.
 
 
-5. ** Explore Insights** : Explore the various tabs of the dashboard to access different types of analysis and visualisations, including cluster analysis and principal component analysis.
+5. **Explore Insights** : Explore the various tabs of the dashboard to access different types of analysis and visualisations, including cluster analysis and principal component analysis.
 
 
 ## Guidelines
